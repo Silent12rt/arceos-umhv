@@ -10,5 +10,6 @@ lto = true
 axstd = { git = "https://github.com/arceos-hypervisor/arceos.git", branch = "vmm" }
 
 axvm = { git = "https://github.com/arceos-hypervisor/axvm.git" }
+# axvm = { git = "https://github.com/hbuxiaofei/axvm.git", branch = "support-seabios" }
 axvcpu = { git = "https://github.com/arceos-hypervisor/axvcpu.git" }
 axaddrspace = { git = "https://github.com/arceos-hypervisor/axaddrspace.git" }

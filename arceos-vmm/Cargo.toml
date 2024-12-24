@@ -15,7 +15,7 @@ axstd = { workspace = true, features = [
     "alloc",
     "paging",
     "fs",
-    "irq", # It has to be disabed in riscv64. Todo: fix it.
+    # "irq", # It has to be disabed in riscv64. Todo: fix it.
     "hv",
     "multitask",
     # "sched_rr"

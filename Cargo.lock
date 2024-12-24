@@ -413,8 +413,6 @@ dependencies = [
  "axtask",
  "chrono",
  "crate_interface",
- "kernel_guard",
- "percpu",
 ]
 
 [[package]]
